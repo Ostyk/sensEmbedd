@@ -1,4 +1,4 @@
-# Michal_OstykNarbutt_1854051_nlp19hw2
+# senseEmbedd: Learning sense embeddings for word similarity
 
 ## Code structure inside [code](code) folder
 - [preprocess.py](code/preprocess.py)
