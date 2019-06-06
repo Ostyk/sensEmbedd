@@ -1,5 +1,5 @@
 # senseEmbedd: Learning sense embeddings for word similarity
-
+## for a detailed overview please refer to the [report](report/report.pdf)
 ![](report/img/tsne.gif)
 
 ![](report/img/tsne3D.png)
