@@ -1,0 +1,13 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Model and Approach}{2}
+\contentsline {subsection}{\numberline {2.1}Dataset and tools}{2}
+\contentsline {subsection}{\numberline {2.2}Parsing}{2}
+\contentsline {subsection}{\numberline {2.3}Training}{2}
+\contentsline {subsubsection}{\numberline {2.3.1}Scoring: Similarity measure}{2}
+\contentsline {subsubsection}{\numberline {2.3.2}Hyperparmeters}{3}
+\contentsline {section}{\numberline {3}Results}{3}
+\contentsline {section}{\numberline {4}Discussion}{4}
+\contentsline {subsection}{\numberline {4.1}General}{4}
+\contentsline {subsection}{\numberline {4.2}Embedding visualization}{4}
+\contentsline {section}{\numberline {5}Conclusion}{5}
