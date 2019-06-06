@@ -1,5 +1,9 @@
 # senseEmbedd: Learning sense embeddings for word similarity
 
+![](report/img/tsne.gif)
+
+![](report/img/tsne3D.png)
+
 ## Code structure inside [code](code) folder
 - [preprocess.py](code/preprocess.py)
   - preprocessing of the Eurosense corpus
